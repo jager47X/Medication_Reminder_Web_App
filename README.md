@@ -1,4 +1,12 @@
-#Team member
+# Medication_Reminder_Web_App
+
+## Summary
+This project file consits with Milestones
+Each milestone contains software documents
+Application contains Frontend modules
+Backend file contains Backend modules
+
+## Team member
 | Student Name | Student Email | GitHub Username | Student's role |
 | :----------: | :-----------: | :-------------: | :------------: |
 |   Yuto Mori   | ymori@sfsu.edu |      ymorisfsu   |  Team Leader   |
